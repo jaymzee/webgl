@@ -1,4 +1,4 @@
-# webgl helper library
+# WebGL helper library
 
 High performance 3D rendering inside the browser.
 
